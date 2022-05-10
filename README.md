@@ -49,14 +49,6 @@ https://github.com/PaulLeCam/react-leaflet
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the GNU General Public License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 
