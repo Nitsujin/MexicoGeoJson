@@ -41,8 +41,10 @@ All of the cards are also displayed within the page so the user can view all of 
 
 
 For more examples, please refer to: 
+<br />
 https://react-leaflet.js.org/  
 https://leafletjs.com/reference.html
+<br />
 https://github.com/PaulLeCam/react-leaflet
 
 
